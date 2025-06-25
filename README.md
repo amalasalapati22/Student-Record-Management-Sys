@@ -27,7 +27,10 @@ Sample Output:
 5.Exit
 
 Choose an option: 1
+
 Enter ID: 101
+
 Enter Name: Amala
+
 Enter Marks: 95
 Student added successfully.
