@@ -1,6 +1,6 @@
 Student Record Management System - Java
 
-This is a simple Command Line Interface (CLI) application written in **Java** that allows users to **add, view, update, and delete** student records. It demonstrates basic OOPs, ArrayList Usage and menu driven programming
+This is a simple Command Line Interface (CLI) application written in Java that allows users to add, view, update, and delete student records. It demonstrates basic OOPs, ArrayList Usage and menu driven programming
 
 Features:
 - Add student with ID, name, and marks
